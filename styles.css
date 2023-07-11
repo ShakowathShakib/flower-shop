@@ -152,3 +152,127 @@ font-weight: 400;
 line-height: 30px;
 margin-bottom: 25px;
 }
+
+.instagram{
+
+   text-align: center;
+  
+   margin-top: 25px;
+}
+.insta-tittle{
+
+color: #272727;
+
+font-family: Lato;
+font-size: 40px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+margin-bottom: 30px;
+margin-top:7%;
+}
+.insta-des{
+color: rgba(39, 39, 39, 0.60);
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+margin-bottom: 2%;
+
+}
+.insta-pic{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1.5%;
+}
+
+.latest-deal{
+background-image: url('Rectangle\ 9.png');
+margin: 130px 240px;
+height: 450px;
+background-repeat: no-repeat;
+
+}
+.latest-deal{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    margin-bottom: 125px;
+}
+.latest-deal-tit{
+    color: #272727;
+    font-family: Lato;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    margin-bottom: 25px;
+}
+.lt-deal-des{
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px; 
+    margin-bottom: 25px;
+}
+.btn-prime-last{
+    background-color: #E55473; 
+    padding: 14px 10px;
+    color: white;
+    font-size: 30px;
+    width: 200px;
+    border-radius: 10px;
+    position: absolute;
+    right:305px;
+}
+.input-fld{
+width: 550px;
+height:64px;
+border-radius: 10px;
+padding-left: 40px;
+position: absolute;
+right: 508px;
+
+}
+
+footer{
+    width: 100%;
+    text-align: center;
+    background-color: rgb(0, 0, 0);
+    color: white;
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    position: relative;
+
+}
+.last-tit{
+    font-family: Lato;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    margin-bottom: 30px;
+}
+.last-des{
+color: rgba(200, 197, 197, 0.9);
+text-align: center;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+margin-bottom: 25px;
+}
+.last-pera{
+    color: rgba(255, 255, 255, 0.40);
+    text-align: center;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
